@@ -1,0 +1,3 @@
+GIT é um software de controle de versão, atualmente é o mais usado pelos desenvolvedores.
+O GIT permite voltar versões, consultar históricos e criar novas versões.
+O GIT também ajuda a controlar o fluxo de novas funcionalidades entre vários desenvolvedores de um mesmo projeto.
